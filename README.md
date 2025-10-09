@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI, ML and Blockchain**
 
-- 💬 Ask me about **Python, SQL**
+- 💬 Ask me about anything related to Python/SQL
 
 - 📫 How to reach me **Alazarzoe@gmail.com**
 - Fun fact: I ❤️ 🐶s
