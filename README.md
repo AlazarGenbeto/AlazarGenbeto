@@ -1,5 +1,4 @@
 <h1 align="center">Hi there👋, I'm Alazar</h1>
-<h3 align="center">Learning, analyzing, and growing through data every day 💡</h3>
 <!-- I am Always eager to learn new technologies and techniques and improve my skills. -->
 <!-- and looking forward to collaborating and contributing to open-source projects. -->
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>A Data enthusiast who loves to deep dive into the processes and gather meaningful insights from the business numbers and design strategies to optimize them.
