@@ -1,8 +1,8 @@
 <h1 align="center">Hi there👋, I'm Alazar</h1>
 <h3 align="center">Learning, analyzing, and growing through data every day 💡</h3>
-
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>I am Always eager to learn new technologies and techniques and improve my skills.
-and looking forward to collaborating and contributing to open-source projects.
+<!-- I am Always eager to learn new technologies and techniques and improve my skills. -->
+<!-- and looking forward to collaborating and contributing to open-source projects. -->
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>A Data enthusiast who loves to deep dive into the processes and gather meaningful insights from the business numbers and design strategies to optimize them.
 </code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0" data-copy-feedback="Copied!" data-tooltip-direction="w" value="I am Always eager to learn new technologies and techniques and improve my skills.
 and looking forward to collaborating and contributing to open-source projects." tabindex="0" role="button" style="display: inherit;">
