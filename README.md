@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm Alazar</h1>
 <h3 align="center">Learning, analyzing, and growing through data every day 💡</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alazargenbeto" alt="alazargenbeto" /></a> </p>
+- 🔭 I’m currently working on **something cool**
 
-- 🔭 I’m currently working on **improving my machine learning skills with real-world datasets.**
+- 🌱 I’m currently learning **AI, ML and Blockchain**
 
-- 🌱 I’m currently learning **PyTorch**
-
-- 💬 Ask me about **Python, SQL, Excel**
+- 💬 Ask me about **Python, SQL**
 
 - 📫 How to reach me **Alazarzoe@gmail.com**
-
+- Fun fact: I ❤️ 🐶s
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
