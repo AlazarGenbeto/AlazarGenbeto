@@ -1,8 +1,8 @@
 <h1 align="center">Howdy, partner!👋 </h1>
 <!-- I am Always eager to learn new technologies and techniques and improve my skills. -->
 <!-- and looking forward to collaborating and contributing to open-source projects. -->
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>Alazar here, A Data enthusiast who loves to deep dive into the processes 
-and gather meaningful insights from the business numbers and design strategies to optimize them.
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>Alazar here, A Data enthusiast who loves to deep dive into the processes and gather meaningful insights 
+from the business numbers and design strategies to optimize them.
 </code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0" data-copy-feedback="Copied!" data-tooltip-direction="w" value="A Data enthusiast who loves to deep dive into the processes and gather meaningful insights from the business numbers and design strategies to optimize them." tabindex="0" role="button" style="display: inherit;">
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon m-2">
