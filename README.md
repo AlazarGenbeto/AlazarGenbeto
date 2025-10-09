@@ -8,7 +8,7 @@
 - 💬 Ask me about anything related to Python/SQL
 
 - 📫 How to reach me **Alazarzoe@gmail.com**
-- Fun fact: I ❤️ 🐶s
+- Fun fact: I ❤️ 🐶s & Basketball 🏀⛹️‍♂️
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
