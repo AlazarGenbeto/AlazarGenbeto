@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alazar</h1>
 <h3 align="center">Learning, analyzing, and growing through data every day 💡</h3>
 
-- 🔭 I’m currently working on **something cool**
+- 🔭 I’m currently working on **something cool 😉**
 
 - 🌱 I’m currently learning **AI, ML and Blockchain**
 
