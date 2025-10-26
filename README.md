@@ -1,38 +1,6 @@
-<div class="large grid centered square-grid">
-  <h2 class="text-xl">HELLO WORLD</h2>
-</div>
 
-<script>
-#animation .text-xl {
-  font-size: 1.5rem;
-  color: currentColor;
-  letter-spacing: 0.06em;
-}
-</script>
-<script>
-import { animate, stagger, splitText } from 'animejs';
 
-const { chars } = splitText('h2', { words: false, chars: true });
-
-animate(chars, {
-  // Property keyframes
-  y: [
-    { to: '-2.75rem', ease: 'outExpo', duration: 600 },
-    { to: 0, ease: 'outBounce', duration: 800, delay: 100 }
-  ],
-  // Property specific parameters
-  rotate: {
-    from: '-1turn',
-    delay: 0
-  },
-  delay: stagger(50),
-  ease: 'inOutCirc',
-  loopDelay: 1000,
-  loop: true
-});
-
-</script>
-
+[View Animated "HELLO WORLD"]([https://yourusername.github.io/yourrepo/](https://github.com/AlazarGenbeto/AlazarGenbeto.git))
 
 <h1 align="left">Hello World 👋  </h1>
 <!-- I am Always eager to learn new technologies and techniques and improve my skills. -->
