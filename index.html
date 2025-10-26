@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hello World Animation</title>
+  <script type="module">
+    import { animate, stagger, splitText } from "https://cdn.skypack.dev/animejs";
+
+    window.onload = () => {
+      const h2 = document.querySelector("h2");
+      const text = h2.textContent.split("");
+      h2.innerHTML = text.map(ch => `<span>${ch}</span>`).join("");
+      const chars = h2.querySelectorAll("span");
+
+      animate(chars, {
+        y: [
+          { to: "-2.75rem", ease: "outExpo", duration: 600 },
+          { to: 0, ease: "outBounce", duration: 800, delay: 100 }
+        ],
+        rotate: {
+          from: "-1turn",
+          delay: 0
+        },
+        delay: stagger(50),
+        ease: "inOutCirc",
+        loopDelay: 1000,
+        loop: true
+      });
+    };
+  </script>
+  <style>
+    body {
+      display: flex;
+      height: 100vh;
+      align-items: center;
+      justify-content: center;
+      background: #111;
+      color: #fff;
+      font-family: 'Arial', sans-serif;
+    }
+    .text-xl {
+      font-size: 2rem;
+      letter-spacing: 0.06em;
+    }
+  </style>
+</head>
+<body>
+  <h2 class="text-xl">HELLO WORLD</h2>
+</body>
+</html>
