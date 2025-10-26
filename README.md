@@ -1,7 +1,4 @@
 
-
-[https://yourusername.github.io/yourrepo/](https://github.com/AlazarGenbeto/AlazarGenbeto.git
-](https://github.com/AlazarGenbeto/AlazarGenbeto.git)
 <h1 align="left">Hello World 👋  </h1>
 <!-- I am Always eager to learn new technologies and techniques and improve my skills. -->
 <!-- and looking forward to collaborating and contributing to open-source projects. -->
